@@ -1,4 +1,4 @@
-package com.product.microservice.model;
+package com.product.microservice.model.entity;
 
 import javax.persistence.*;
 import java.io.Serializable;
