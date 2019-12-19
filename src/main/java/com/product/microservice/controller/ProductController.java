@@ -1,5 +1,5 @@
 package com.product.microservice.controller;
-import com.product.microservice.model.entity.Product;
+import com.microservice.common.model.entity.Product;
 import com.product.microservice.model.service.IProductService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;

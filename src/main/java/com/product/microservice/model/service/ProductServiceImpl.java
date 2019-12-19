@@ -1,7 +1,7 @@
 package com.product.microservice.model.service;
 
+import com.microservice.common.model.entity.Product;
 import com.product.microservice.model.dao.ProductDao;
-import com.product.microservice.model.entity.Product;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
